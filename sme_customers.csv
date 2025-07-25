@@ -1,0 +1,201 @@
+Customer_ID,Company_Name,Industry,Region,Customer_Since,Credit_Term_Days,Risk_Category
+CUST0001,Castro Inc,Logistics,South,2023-12-10,45,Low
+CUST0002,"Jones, Leonard and Robinson",Healthcare,South,2022-01-09,30,Medium
+CUST0003,"Nicholson, Gonzalez and Lozano",Tech,South,2021-05-22,45,Medium
+CUST0004,"Smith, Craig and Gibbs",Healthcare,East,2021-02-24,45,Medium
+CUST0005,"Brown, Dawson and Thompson",Healthcare,East,2020-09-11,30,Medium
+CUST0006,Fields Inc,Manufacturing,West,2021-03-24,30,Medium
+CUST0007,Carey-Fowler,Tech,West,2023-12-29,30,Low
+CUST0008,Williams and Sons,Tech,North,2020-10-10,15,Low
+CUST0009,"Arnold, Brown and Henderson",Tech,North,2020-10-12,60,Low
+CUST0010,Harris-Stanley,Healthcare,West,2023-11-25,15,Low
+CUST0011,"Long, Holmes and Reese",Logistics,East,2021-04-25,15,Low
+CUST0012,"Morris, Adams and Graves",Tech,South,2022-10-24,45,Medium
+CUST0013,"Mccormick, Lopez and Moran",Healthcare,West,2023-02-01,30,Low
+CUST0014,"Stewart, Cordova and Valenzuela",Manufacturing,North,2020-12-10,60,Medium
+CUST0015,Andrews Group,Logistics,East,2022-06-19,45,Low
+CUST0016,Smith Inc,Manufacturing,West,2023-11-23,15,Medium
+CUST0017,Williams Group,Logistics,West,2024-06-13,30,Low
+CUST0018,"Myers, Patton and Hernandez",Healthcare,East,2020-11-17,45,Low
+CUST0019,"Long, Bryant and Faulkner",Retail,West,2020-12-03,30,Low
+CUST0020,Baker-Lam,Logistics,East,2024-03-23,45,Medium
+CUST0021,"Lewis, Trujillo and Sanchez",Manufacturing,South,2021-08-08,30,Low
+CUST0022,Schneider-Mendez,Healthcare,East,2023-09-05,15,High
+CUST0023,"Jones, Mitchell and Whitney",Logistics,East,2023-11-09,60,Low
+CUST0024,Rice-Gonzalez,Retail,East,2023-04-03,15,Low
+CUST0025,Smith Group,Retail,West,2021-02-17,60,High
+CUST0026,Walker PLC,Tech,West,2020-10-22,30,Medium
+CUST0027,Steele PLC,Tech,East,2020-08-08,45,Low
+CUST0028,"Atkins, Brown and Robles",Manufacturing,West,2020-08-25,15,Medium
+CUST0029,Lucero-Dunlap,Logistics,North,2020-12-03,60,Medium
+CUST0030,Thomas Inc,Logistics,North,2021-09-23,15,Medium
+CUST0031,"Swanson, Carpenter and Marquez",Tech,West,2020-10-25,60,Low
+CUST0032,Stevenson LLC,Logistics,West,2023-07-22,15,Low
+CUST0033,Anderson and Sons,Logistics,East,2021-02-15,60,Medium
+CUST0034,Pierce-Taylor,Retail,South,2021-02-06,60,High
+CUST0035,Pitts-Hamilton,Tech,West,2022-12-06,30,Medium
+CUST0036,Wilson-Mcknight,Healthcare,North,2023-02-04,60,Low
+CUST0037,Johnson Group,Tech,East,2022-12-27,30,Medium
+CUST0038,Rivera-Perez,Healthcare,West,2023-05-11,60,Medium
+CUST0039,Thomas-Middleton,Retail,North,2020-08-17,45,Low
+CUST0040,Oneal Ltd,Manufacturing,North,2024-02-12,45,Low
+CUST0041,Tyler PLC,Logistics,South,2023-09-27,45,Medium
+CUST0042,Martin-Bates,Retail,East,2021-07-01,60,Low
+CUST0043,Atkinson Inc,Logistics,East,2024-07-05,30,Low
+CUST0044,Randall Inc,Manufacturing,South,2021-04-22,30,Low
+CUST0045,Romero-Luna,Manufacturing,South,2024-03-04,60,Low
+CUST0046,Howard and Sons,Retail,East,2023-11-27,45,Low
+CUST0047,Rodriguez Ltd,Manufacturing,East,2021-12-19,45,High
+CUST0048,Ponce-Chapman,Healthcare,West,2021-07-24,30,Medium
+CUST0049,Walton Group,Manufacturing,West,2023-01-28,45,Low
+CUST0050,"Rodriguez, Hurley and Brewer",Logistics,South,2021-04-19,15,High
+CUST0051,Warren-Davidson,Logistics,West,2023-06-23,30,Medium
+CUST0052,Kelley-Bradley,Logistics,North,2020-11-06,45,Low
+CUST0053,Young-Guzman,Logistics,West,2020-08-29,30,Low
+CUST0054,Kline-Perez,Healthcare,West,2024-05-22,15,Low
+CUST0055,Edwards-Davis,Tech,North,2022-12-26,30,Low
+CUST0056,Johnson-Smith,Retail,South,2022-03-14,30,Medium
+CUST0057,Cook Inc,Logistics,North,2023-06-23,30,Medium
+CUST0058,Costa-Porter,Manufacturing,West,2023-12-18,30,Low
+CUST0059,Zuniga-Ramirez,Logistics,South,2022-12-01,15,High
+CUST0060,"Wilson, Armstrong and Wall",Manufacturing,West,2020-11-08,60,Medium
+CUST0061,"Brown, Ramirez and Smith",Manufacturing,North,2020-11-25,30,Low
+CUST0062,Warren Inc,Logistics,North,2022-06-01,30,High
+CUST0063,Hall-Sweeney,Healthcare,West,2023-01-27,45,High
+CUST0064,"Cooper, Alexander and Sanchez",Manufacturing,East,2021-08-08,30,High
+CUST0065,"York, Escobar and Hunt",Manufacturing,East,2022-09-22,45,Low
+CUST0066,Gonzalez LLC,Logistics,North,2022-05-25,60,Medium
+CUST0067,"Bowers, Barton and Mahoney",Manufacturing,North,2021-12-19,15,Medium
+CUST0068,Rogers Ltd,Manufacturing,East,2021-09-20,15,Medium
+CUST0069,Johnston-Miller,Logistics,East,2023-05-17,60,High
+CUST0070,"Waters, Mitchell and Dunn",Logistics,West,2021-09-22,15,Medium
+CUST0071,"Paul, Davis and Williams",Retail,West,2022-01-18,60,Medium
+CUST0072,Briggs and Sons,Healthcare,East,2021-07-05,60,High
+CUST0073,Fields-Drake,Healthcare,West,2023-10-28,60,Medium
+CUST0074,Morgan Ltd,Manufacturing,West,2023-04-28,15,Low
+CUST0075,"Norris, Diaz and Silva",Healthcare,South,2020-08-15,45,Low
+CUST0076,"Zavala, Jackson and Harmon",Manufacturing,West,2022-08-15,60,Low
+CUST0077,Barnes-Leblanc,Retail,North,2023-05-13,30,High
+CUST0078,"Woods, Gray and Camacho",Logistics,West,2020-08-02,15,Low
+CUST0079,"Ruiz, Olsen and Clayton",Logistics,West,2022-02-01,60,Medium
+CUST0080,Taylor-Vargas,Logistics,East,2022-06-08,60,Low
+CUST0081,Curry-Gardner,Healthcare,North,2021-03-18,30,Medium
+CUST0082,Morris Ltd,Retail,West,2020-10-08,45,High
+CUST0083,Jensen-Ramsey,Healthcare,West,2021-07-29,45,High
+CUST0084,Newman Group,Healthcare,South,2023-09-09,45,Low
+CUST0085,Rosales-Roberts,Retail,West,2022-05-16,60,High
+CUST0086,Harrison-Macdonald,Retail,West,2021-08-01,60,Medium
+CUST0087,"Morales, Cervantes and Rogers",Retail,South,2024-06-18,60,Low
+CUST0088,Williams-Cole,Retail,East,2021-08-18,15,Medium
+CUST0089,"Braun, Potts and Mitchell",Logistics,West,2022-03-08,30,Low
+CUST0090,"Wright, Gibson and Morrison",Tech,South,2021-08-19,60,Low
+CUST0091,Caldwell-Valenzuela,Tech,North,2022-06-19,30,Medium
+CUST0092,Vazquez-Wood,Retail,East,2022-11-13,30,Low
+CUST0093,Robinson-Johnson,Tech,North,2020-11-24,45,Low
+CUST0094,Houston LLC,Tech,North,2023-03-28,15,Low
+CUST0095,Higgins LLC,Retail,South,2022-07-25,60,Low
+CUST0096,Williams-Christian,Tech,West,2020-10-18,45,Low
+CUST0097,"Crawford, Villa and Robertson",Healthcare,South,2021-05-03,45,Medium
+CUST0098,Romero PLC,Manufacturing,South,2023-07-14,60,Medium
+CUST0099,Stanley LLC,Manufacturing,South,2023-02-07,30,Medium
+CUST0100,"Smith, Bowman and Snow",Retail,South,2020-12-30,45,Medium
+CUST0101,"Dillon, Luna and Christian",Logistics,East,2022-03-28,30,Medium
+CUST0102,"Valdez, Roberts and Alvarez",Retail,West,2022-05-14,15,Medium
+CUST0103,"Watson, Owen and Walton",Logistics,North,2024-03-18,30,Low
+CUST0104,Patterson PLC,Manufacturing,North,2020-08-27,15,Low
+CUST0105,Oneill-Rodriguez,Retail,West,2021-04-12,30,Low
+CUST0106,Powell-Hickman,Healthcare,North,2021-06-26,45,Low
+CUST0107,Hunter-Collins,Tech,West,2024-02-27,45,Medium
+CUST0108,Brown LLC,Logistics,North,2023-11-03,15,Low
+CUST0109,Perez-Hill,Tech,South,2021-01-21,60,Medium
+CUST0110,"Cunningham, Weber and Perry",Tech,North,2020-12-31,15,High
+CUST0111,"Ray, Harris and Ford",Retail,West,2023-09-14,15,Medium
+CUST0112,"Huff, Smith and Paul",Tech,West,2022-08-11,30,Low
+CUST0113,Richardson and Sons,Healthcare,West,2022-07-28,30,Low
+CUST0114,"Potter, Gutierrez and Blair",Tech,West,2020-08-26,15,High
+CUST0115,Gonzalez-Richmond,Retail,West,2024-02-27,45,High
+CUST0116,"Jones, Thomas and Taylor",Healthcare,East,2024-03-10,30,Low
+CUST0117,"Nichols, Lamb and Meyer",Manufacturing,East,2020-11-20,60,Medium
+CUST0118,"Hernandez, Rogers and Wilson",Tech,North,2024-07-02,30,Low
+CUST0119,Vega Ltd,Retail,West,2021-05-03,30,Low
+CUST0120,Reyes Group,Manufacturing,North,2020-12-30,60,Low
+CUST0121,Brooks Group,Manufacturing,West,2020-10-26,15,Low
+CUST0122,"Lee, Barker and Strong",Logistics,West,2020-11-21,60,High
+CUST0123,Wright Group,Healthcare,East,2024-01-27,15,Medium
+CUST0124,"Martin, Mooney and Russell",Tech,East,2024-03-08,15,Low
+CUST0125,"Chandler, Larson and Shelton",Retail,South,2023-04-18,15,Medium
+CUST0126,"Murray, Norton and Norris",Logistics,East,2021-11-26,60,High
+CUST0127,Mclean LLC,Healthcare,South,2020-09-27,15,High
+CUST0128,"Francis, Oneill and Small",Logistics,South,2022-10-02,45,Low
+CUST0129,Kelly and Sons,Healthcare,South,2022-01-17,60,Low
+CUST0130,Castro-Davila,Healthcare,South,2024-07-18,45,Low
+CUST0131,Oliver-Oconnell,Tech,South,2024-03-31,15,Low
+CUST0132,House Ltd,Healthcare,North,2020-11-09,30,Low
+CUST0133,Lee LLC,Logistics,East,2020-10-25,15,Medium
+CUST0134,Johnson Group,Healthcare,South,2023-07-17,45,Low
+CUST0135,Grant-Hamilton,Tech,West,2020-09-14,45,Low
+CUST0136,"Garcia, Werner and Fisher",Tech,East,2022-08-17,60,Low
+CUST0137,Walsh-Ruiz,Logistics,East,2020-12-05,30,Low
+CUST0138,Francis Ltd,Manufacturing,South,2024-02-21,60,Low
+CUST0139,Turner-Glover,Manufacturing,North,2021-04-03,45,Low
+CUST0140,Walker-Arnold,Healthcare,South,2024-01-30,15,Low
+CUST0141,Kennedy-Page,Retail,North,2022-06-07,30,Low
+CUST0142,"Wheeler, Jones and Taylor",Healthcare,West,2024-07-03,15,Low
+CUST0143,Wheeler-Burns,Logistics,East,2020-09-22,15,Medium
+CUST0144,"Roach, Scott and Castro",Logistics,West,2020-12-12,30,Low
+CUST0145,Trujillo-Peterson,Logistics,North,2023-11-18,60,Low
+CUST0146,"Thomas, Maynard and Clay",Logistics,North,2022-05-04,15,Low
+CUST0147,Adams Inc,Logistics,West,2022-12-08,45,High
+CUST0148,Price LLC,Tech,North,2023-02-12,15,Low
+CUST0149,"Martinez, Ramirez and Rodriguez",Manufacturing,West,2022-06-06,30,Medium
+CUST0150,Hanna Group,Logistics,East,2021-08-02,30,High
+CUST0151,Martinez Inc,Retail,West,2022-07-28,30,Low
+CUST0152,Sanford-Edwards,Retail,East,2021-11-14,60,High
+CUST0153,Stokes-Irwin,Retail,West,2021-09-29,15,Medium
+CUST0154,Allen and Sons,Retail,North,2022-06-10,60,Low
+CUST0155,"Smith, Hale and Martinez",Tech,West,2023-11-23,60,Low
+CUST0156,Medina-Murray,Retail,North,2024-04-24,30,Medium
+CUST0157,Johnston Inc,Logistics,West,2023-12-06,30,Low
+CUST0158,"Hale, Martinez and Wyatt",Healthcare,West,2021-04-26,60,High
+CUST0159,"Calhoun, Cobb and Hayes",Retail,South,2023-12-09,15,Low
+CUST0160,Wagner PLC,Tech,North,2021-09-21,45,Medium
+CUST0161,Torres Ltd,Tech,South,2022-04-27,60,Low
+CUST0162,"Martin, Allen and Cantu",Retail,North,2020-11-03,15,Medium
+CUST0163,"Hodges, Edwards and Stewart",Healthcare,South,2021-02-16,30,Medium
+CUST0164,Keith Ltd,Retail,East,2022-09-06,30,Low
+CUST0165,Snow Group,Tech,West,2021-09-30,15,Low
+CUST0166,"Horton, Garcia and Clarke",Manufacturing,North,2020-10-01,45,Low
+CUST0167,Patel Ltd,Logistics,North,2020-10-17,30,Low
+CUST0168,Carroll Ltd,Tech,West,2021-09-24,30,Low
+CUST0169,Nicholson-Cooper,Retail,North,2021-02-06,30,Medium
+CUST0170,Brooks-Potter,Logistics,North,2023-07-29,15,Medium
+CUST0171,"Andrade, Melendez and Baker",Retail,South,2023-08-06,60,Medium
+CUST0172,Fuller and Sons,Retail,North,2022-01-28,30,High
+CUST0173,"Torres, Reed and Weaver",Manufacturing,East,2023-02-12,60,Medium
+CUST0174,Ingram and Sons,Logistics,East,2020-09-23,45,Medium
+CUST0175,Malone-Robinson,Logistics,West,2020-12-28,30,Medium
+CUST0176,"Robinson, Rice and Smith",Manufacturing,North,2022-05-12,30,Low
+CUST0177,"Howard, Young and Wilson",Tech,West,2024-07-20,45,Low
+CUST0178,Russell Inc,Retail,East,2024-01-14,30,Low
+CUST0179,"Boyd, Rose and Carlson",Healthcare,North,2023-10-10,60,Low
+CUST0180,Morgan LLC,Retail,North,2022-04-20,15,Low
+CUST0181,"Jensen, Crosby and Miller",Retail,West,2023-08-03,60,Low
+CUST0182,Ross-Mann,Tech,East,2023-09-17,15,High
+CUST0183,Good-Cooper,Retail,North,2024-05-11,15,Medium
+CUST0184,Jacobs-Woods,Manufacturing,West,2024-07-20,60,Low
+CUST0185,Anderson Ltd,Manufacturing,East,2024-05-14,60,Low
+CUST0186,Osborne-Ferguson,Logistics,West,2022-07-17,60,Low
+CUST0187,"Burns, Beck and Davis",Healthcare,South,2021-03-07,60,Low
+CUST0188,Barnes Group,Retail,North,2022-09-06,45,Low
+CUST0189,Mcdaniel and Sons,Retail,South,2021-06-08,30,Medium
+CUST0190,"Gray, Freeman and Harvey",Tech,East,2020-08-24,15,Low
+CUST0191,"Robinson, Chang and Day",Manufacturing,South,2023-06-16,60,Medium
+CUST0192,Kennedy-Dennis,Healthcare,South,2022-11-26,60,High
+CUST0193,Jackson-Richardson,Logistics,East,2023-12-19,60,Low
+CUST0194,Hamilton-Williams,Manufacturing,West,2022-03-23,45,Medium
+CUST0195,"Smith, Garcia and Brooks",Logistics,South,2022-12-29,60,Medium
+CUST0196,Edwards LLC,Tech,West,2024-02-14,60,Low
+CUST0197,"Moore, Terry and Young",Tech,South,2023-10-20,60,Low
+CUST0198,Robinson Inc,Retail,West,2023-02-22,30,Medium
+CUST0199,Ortiz LLC,Healthcare,East,2021-07-19,45,Medium
+CUST0200,Wise-Rice,Logistics,South,2022-08-05,60,Medium
